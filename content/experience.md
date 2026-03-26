@@ -4,8 +4,7 @@ type: "experience"
 ---
 
 <p style="text-align: center; color: var(--text-light); margin-bottom: 2rem;">
-  Scroll down to view my professional timeline from present to past. 
-  <br>*(Tip: You can change the circular images by updating the HTML src links!)*
+  Work History. 
 </p>
 
 <div class="timeline">
