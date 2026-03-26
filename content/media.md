@@ -12,6 +12,7 @@ Select Media:
 - [Common Herbicides Harmful to Teen Brain Function, Study Shows](https://nypost.com/2023/10/11/common-herbicides-harmful-to-teen-brain-function-study-shows/) - *New York Post*
 - [Common Herbicides Are Harmful to Adolescents' Brains, Study Shows](https://www.courthousenews.com/common-herbicides-are-harmful-to-adolescents-brains-study-shows/) - *Courthouse News Service*
 - [Commonly Used Herbicide is Harmful to Adolescent Brain Function (Press Release / News Release)](https://www.eurekalert.org/news-releases/1003778) - *EurekAlert!*
+- [Toxicologists Reveal Popular Weed Killer May Harm Teenage Brains](https://www.newsweek.com/toxicologists-reveal-popular-weed-killer-harm-teenage-brains-1833487) - *Newsweek*
 
 Feature Article:
 - [A Thorny Problem: Glyphosate and 2,4-D Associatd with Neurobehavioral Effects for Ecuadorian Adolescents](https://pmc.ncbi.nlm.nih.gov/articles/PMC10750889/)
