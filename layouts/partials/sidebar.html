@@ -1,0 +1,24 @@
+<div class="sidebar">
+  <img src="{{ "images/headshot.png" | relURL }}" alt="{{ .Site.Params.author }}" class="profile-img">
+  <h2>{{ .Site.Params.author }}</h2>
+  <h3>Environmental & Spatial Epidemiologist</h3>
+  
+  <div class="contact-info">
+    <p><ion-icon name="mail-outline"></ion-icon> {{ .Site.Params.email }}</p>
+    <p><ion-icon name="location-outline"></ion-icon> La Jolla, CA</p>
+  </div>
+
+  <nav class="nav">
+    <a href="{{ .Site.BaseURL }}" class="{{ if .IsHome }}active{{ end }}"><ion-icon name="person-outline"></ion-icon> About</a>
+    <a href="{{ .Site.BaseURL }}experience/" class="{{ if eq .Title "Experience" }}active{{ end }}"><ion-icon name="briefcase-outline"></ion-icon> Experience</a>
+    <a href="{{ .Site.BaseURL }}publications/" class="{{ if eq .Title "Publications" }}active{{ end }}"><ion-icon name="document-text-outline"></ion-icon> Publications</a>
+    <a href="{{ .Site.BaseURL }}media/" class="{{ if eq .Title "Media" }}active{{ end }}"><ion-icon name="newspaper-outline"></ion-icon> Media</a>
+    <a href="{{ .Site.BaseURL }}contact/" class="{{ if eq .Title "Contact" }}active{{ end }}"><ion-icon name="chatbubbles-outline"></ion-icon> Contact</a>
+  </nav>
+
+  <div class="social-links">
+    {{ with .Site.Params.github }}<a href="{{ . }}" target="_blank"><ion-icon name="logo-github"></ion-icon></a>{{ end }}
+    {{ with .Site.Params.linkedin }}<a href="{{ . }}" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>{{ end }}
+    {{ with .Site.Params.scholar }}<a href="{{ . }}" target="_blank"><ion-icon name="school-outline"></ion-icon></a>{{ end }}
+  </div>
+</div>

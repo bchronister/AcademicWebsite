@@ -1,0 +1,7 @@
+{{ define "main" }}
+    <div class="hero-banner">
+        <!-- Instructed user to save their landscape photo as banner.jpg -->
+        <img src="{{ "images/banner.jpg" | relURL }}" alt="Research Landscape Banner" class="banner-img">
+    </div>
+    {{ .Content }}
+{{ end }}

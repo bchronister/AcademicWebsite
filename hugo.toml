@@ -1,0 +1,19 @@
+baseURL = "https://example.github.io/"
+languageCode = "en-us"
+title = "Briana N.C. Chronister, PhD, MS"
+
+
+[params]
+  description = "Personal academic website for Dr. Briana N.C. Chronister, an environmental and spatial epidemiologist."
+  author = "Briana N.C. Chronister"
+  email = "bnchronister@health.ucsd.edu"
+  
+  # Social links
+  github = "https://github.com"
+  linkedin = "https://linkedin.com"
+  scholar = "https://scholar.google.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
