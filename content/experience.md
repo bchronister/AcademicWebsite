@@ -4,7 +4,7 @@ type: "experience"
 ---
 
 <p style="text-align: center; color: var(--text-light); margin-bottom: 2rem;">
-  Work History. 
+
 </p>
 
 <div class="timeline">
