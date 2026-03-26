@@ -9,9 +9,9 @@ title = "Briana N.C. Chronister, PhD, MS"
   email = "bnchronister@health.ucsd.edu"
   
   # Social links
-  github = "https://github.com"
-  linkedin = "https://linkedin.com"
-  scholar = "https://scholar.google.com"
+  github = "https://github.com/bchronister"
+  linkedin = "https://www.linkedin.com/in/brianacortez/"
+  scholar = "https://scholar.google.com/citations?user=JayrPfwAAAAJ&hl=en"
 
 [markup]
   [markup.goldmark]
