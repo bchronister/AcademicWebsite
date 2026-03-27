@@ -14,7 +14,7 @@ type: "experience"
       <img src="https://ui-avatars.com/api/?name=UC+SD&background=ccd5ae&color=fff" alt="UCSD">
     </div>
     <div class="timeline-content">
-      <h3>Postdoctoral Researcher</h3>
+      <h3>Postdoctoral Researcher (ESPINA-EMCT) </h3>
       <h4>University of California San Diego | <strong>Oct 2024 – Present</strong></h4>
       <p>Leads epidemiologic investigations on cyclical alterations in neurocognitive performance and mental health in relation to pesticide spray seasons within the ESPINA-EMCT cohort. Examines environmental and occupational determinants of pesticide exposure and longitudinal impacts using advanced statistical methods.</p>
     </div>
