@@ -16,7 +16,3 @@ Select Media:
 
 Feature Article:
 - [A Thorny Problem: Glyphosate and 2,4-D Associatd with Neurobehavioral Effects for Ecuadorian Adolescents](https://pmc.ncbi.nlm.nih.gov/articles/PMC10750889/)
-
-
-Media coverage for *Obstetric and Neonatal Outcomes Study (ONOS) project at the University of Virginia*:
-- [New Study Links Pesticide Exposure to ADHD in Children](https://news.virginia.edu/content/new-study-links-pesticide-exposure-adhd-children) - *UVA Today*
