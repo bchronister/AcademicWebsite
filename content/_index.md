@@ -3,7 +3,7 @@ title: "About Me"
 type: "about"
 ---
 
-# Biographical Sketch
+# Get to know me
 
 Dr. Briana N.C. Chronister is an environmental and spatial epidemiologist who is currently a postdoctoral researcher at the University of California San Diego Herbert Wertheim School of Public Health. During her doctoral and postdoctoral training, Dr. Chronister has worked with the Study of Secondary Exposures to Pesticides across Childhood, Adolescence and Adulthood (ESPINA) and Cyclical Alterations in Neurocognitive Performance and Mood Over Two Years in Relation to Pesticide Spray Seasons (ESPINA-EMCT) cohorts under the mentorship of Drs. Jose R. Suarez-Lopez and Raeanne C. Moore. 
 
