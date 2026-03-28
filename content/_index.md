@@ -9,7 +9,7 @@ Dr. Briana N.C. Chronister is an environmental and spatial epidemiologist who is
 
 Her research is grounded in a GeoHealth framework, integrating geospatial, machine learning, remote sensing and epidemiologic methods to investigate factors that influence pesticide exposures, and their subsequent impacts on neurobehavioral and overall health across the lifespan in occupational and non-occupational populations. 
 
-Dr. Chronister received her PhD in Public Health from the San Diego State University and University of California San Diego Joint Doctoral Program, where she was an inaugural predoctoral T32 trainee for the NIH Office of Behavioral and Social Sciences Research (OBSSR) Training in Advanced Data Analytics for Behavioral and Social Sciences (TADA-BSSR) Program, and was a Hispanic Center of Excellence Scholar. She received both her MS in Global Health and BS in Biological Sciences from the University of Notre Dame.
+During her doctoral program she was an inaugural predoctoral T32 trainee for the NIH Office of Behavioral and Social Sciences Research (OBSSR) Training in Advanced Data Analytics for Behavioral and Social Sciences (TADA-BSSR) Program, and was a Hispanic Center of Excellence Scholar.
 
 ## Education
 
